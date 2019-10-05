@@ -6,7 +6,9 @@ A Dark color theme for **VSCode** editor, for those of us in the Night's Watch.
 </p>
 
 <p align="center">
+  
 [![Version](https://vsmarketplacebadge.apphb.com/version/theamirm.nightcrawler.svg)](https://marketplace.visualstudio.com/items?itemName=theamirm.nightcrawler) [![Installs](https://vsmarketplacebadge.apphb.com/installs/theamirm.nightcrawler.svg)](https://marketplace.visualstudio.com/items?itemName=theamirm.nightcrawler) [![Ratings](https://vsmarketplacebadge.apphb.com/rating-star/theamirm.nightcrawler.svg)](https://marketplace.visualstudio.com/items?itemName=theamirm.nightcrawler) [![GitHub stars](https://img.shields.io/github/stars/theamirm/nightcrawler-vscode.svg?style=social&label=Star&maxAge=2592000)](https://github.com/theamirm/nightcrawler-vscode)
+
 </p>
 
 ## Screenshot
