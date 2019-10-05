@@ -2,7 +2,7 @@
     "name": "nightcrawler",
     "displayName": "NightCrawler",
     "description": "A Dark color theme, for those of us in the Night's Watch.",
-    "version": "1.0.2",
+    "version": "1.1.0",
     "icon": "Icon.png",
     "publisher": "theamirm",
     "engines": {
@@ -12,11 +12,13 @@
         "Themes"
     ],
     "contributes": {
-        "themes": [{
-            "label": "NightCrawler",
-            "uiTheme": "vs-dark",
-            "path": "./themes/NightCrawler-color-theme.json"
-        }]
+        "themes": [
+            {
+                "label": "NightCrawler",
+                "uiTheme": "vs-dark",
+                "path": "./themes/NightCrawler-color-theme.json"
+            }
+        ]
     },
     "repository": {
         "type": "git",
