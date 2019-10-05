@@ -1,0 +1,26 @@
+{
+    "name": "nightcrawler",
+    "displayName": "NightCrawler",
+    "description": "A Dark color theme, for those of us in the Night's Watch.",
+    "version": "1.0.0",
+    "icon": "Icon.png",
+    "publisher": "theamirm",
+    "engines": {
+        "vscode": "^1.25.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [{
+            "label": "NightCrawler",
+            "uiTheme": "vs-dark",
+            "path": "./themes/NightCrawler-color-theme.json"
+        }]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/theamirm/nightcrawler-vscode"
+    },
+    "homepage": "https://github.com/theamirm/nightcrawler-vscode/blob/master/README.md"
+}
