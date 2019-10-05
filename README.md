@@ -10,10 +10,10 @@ Screenshot from a basic create-react-app
 
 ![Theme Screenshot](https://raw.githubusercontent.com/theamirm/nightcrawler-vscode/master/scr.png)
 
-## Contribution
+## Contributing
 
-Do it!
+Feel free to dive in! Open an issue or submit Pull requests.
 
 ## Also available
 
-NightCrawler is also available for: Firefox Quantum | Telegram Desktop | Telegram Android
+NightCrawler is also available for: Firefox Quantum | Telegram Desktop | Telegram Android (Coming soon)
