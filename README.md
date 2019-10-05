@@ -14,7 +14,7 @@ Screenshot from a basic create-react-app
 
 ## Install
 
-press `ctl/command + shift + p` to launch the command palette then run
+press `ctl/command + p` to launch the command palette then run
 
 ```
 ext install nightcrawler
