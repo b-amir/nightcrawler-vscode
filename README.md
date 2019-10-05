@@ -27,4 +27,4 @@ Feel free to dive in! Open an issue or submit Pull requests.
 ## Also available (Coming soon)
 
 NightCrawler is also available for:
-Firefox Quantum | Telegram Desktop | Telegram Android
+[**Firefox Quantum**](https://github.com/theamirm/nightcrawler-firefox) | Telegram Desktop | Telegram Android
