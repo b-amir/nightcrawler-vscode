@@ -3,6 +3,9 @@
 A Dark color theme for **VSCode** editor, for those of us in the Night's Watch.
 <p align="center">
   <img src="https://raw.githubusercontent.com/theamirm/nightcrawler-vscode/master/banner.png" alt="banner" width="95%"/>
+
+[![Version](https://vsmarketplacebadge.apphb.com/version/theamirm.nightcrawler.svg)](https://marketplace.visualstudio.com/items?itemName=theamirm.nightcrawler) [![Installs](https://vsmarketplacebadge.apphb.com/installs/theamirm.nightcrawler.svg)](https://marketplace.visualstudio.com/items?itemName=theamirm.nightcrawler) [![Ratings](https://vsmarketplacebadge.apphb.com/rating-star/theamirm.nightcrawler.svg)](https://marketplace.visualstudio.com/items?itemName=theamirm.nightcrawler) [![GitHub stars](https://img.shields.io/github/stars/theamirm/nightcrawler-vscode.svg?style=social&label=Star&maxAge=2592000)](https://github.com/theamirm/nightcrawler-vscode)
+
 </p>
 
 [![Version](https://vsmarketplacebadge.apphb.com/version/theamirm.nightcrawler.svg)](https://marketplace.visualstudio.com/items?itemName=theamirm.nightcrawler) [![Installs](https://vsmarketplacebadge.apphb.com/installs/theamirm.nightcrawler.svg)](https://marketplace.visualstudio.com/items?itemName=theamirm.nightcrawler) [![Ratings](https://vsmarketplacebadge.apphb.com/rating-star/theamirm.nightcrawler.svg)](https://marketplace.visualstudio.com/items?itemName=theamirm.nightcrawler) [![GitHub stars](https://img.shields.io/github/stars/theamirm/nightcrawler-vscode.svg?style=social&label=Star&maxAge=2592000)](https://github.com/theamirm/nightcrawler-vscode)
